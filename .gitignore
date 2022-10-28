@@ -1,0 +1,10 @@
+﻿.vs
+.idea
+venv
+__pycache__
+Board/board-backups
+Quartus_EP4CE15F23C8N/db
+Quartus_EP4CE15F23C8N/incremental_db
+Quartus_EP4CE15F23C8N/output_files
+Quartus_EP4CE15F23C8N/simulation
+*.bak
